@@ -50,16 +50,14 @@ To run this project locally, follow these steps:
    ```bash
    cd Amazon-Clone
    ```
-3. **Install the dependencies**:
-  ```bash
-npm install
+3.Open index.html
+You can open index.html using your file explorer or a command suitable for your operating system. For Windows, use:
 ```
-4. **Run the development server**:
-  ```bash
-npm start
-```
-## Usage
-After following the setup steps, you can open your browser and navigate to http://localhost:3000 to view and interact with Amazon-Clone application.
+start  index.html
 
+```
+Alternatively, you can open index.html manually by double-clicking the file in File Explorer.
+## Usage
+After following the setup steps, your browser should display the Amazon Clone application. If it doesn’t open automatically, you can manually navigate to index.html in your browser.
 ## License
 This project is licensed under the MIT License.
