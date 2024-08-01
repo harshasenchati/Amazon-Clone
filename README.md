@@ -50,11 +50,10 @@ To run this project locally, follow these steps:
    ```bash
    cd Amazon-Clone
    ```
-3.Open index.html
+3. Open index.html
 You can open index.html using your file explorer or a command suitable for your operating system. For Windows, use:
 ```
 start  index.html
-
 ```
 Alternatively, you can open index.html manually by double-clicking the file in File Explorer.
 ## Usage
